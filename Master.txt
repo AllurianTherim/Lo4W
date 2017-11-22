@@ -1,6 +1,6 @@
 # Lo4W
 
 <Version: 1.01>
-
+/data/Map001.json
 <End of Version>
 
