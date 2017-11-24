@@ -6,4 +6,5 @@
 <End of Version>
 
 <Version: 1.03>
-/dataMap002.json 
+/data/Map002.json https://raw.githubusercontent.com/AllurianTherim/Lo4W/master/Map002.json
+<Version: 1.03>
