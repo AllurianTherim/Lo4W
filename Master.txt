@@ -5,3 +5,5 @@
 /data/MapInfos.json https://raw.githubusercontent.com/AllurianTherim/Lo4W/master/MapInfos.json
 <End of Version>
 
+<Version: 1.03>
+/dataMap002.json 
